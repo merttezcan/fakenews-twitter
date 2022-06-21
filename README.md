@@ -1,3 +1,3 @@
 # fakenews-twitter
 
-to be updated
+A bot detection model powered by knowledge graphs.
